@@ -1,4 +1,4 @@
-# Candian-household-spending-2010-2019
+# Canadian-household-spending-2010-2019
 This project explores patterns of Canadian household spendings from 2010 to 2019. Throughout the analysis, I kept a few questions in mind. Which province is the most expensive to live in? Do people spend most money on rent, food, or something else? Are things getting a lot more expensive over the years?
 ## The Data
 I analyzed a public dataset named “Household spending, Canada, regions and provinces” published by the Canadian government. The dataset can be downloaded from https://open.canada.ca/.<br>
