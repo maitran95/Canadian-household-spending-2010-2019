@@ -8,9 +8,9 @@ The [dataset](household_spending.csv), which comes in an excel format, aggregate
 ## Summaries of Findings
 
 
-<img width="694" alt="image" src="https://user-images.githubusercontent.com/64732803/206878306-c30a0244-c237-4811-bc06-dc3e7caa3eab.png">
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/64732803/206878017-fb292780-6515-4d50-8a9d-6eab0adf6201.png">
 As of 2019, provinces with highest cost of living in Canada include Alberta, Prairie Region, and British Columbia. In these states, households spent more than CAD 100,000 per year. <br>
-
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/64732803/206878306-c30a0244-c237-4811-bc06-dc3e7caa3eab.png">
 Households in Canada typical spend between CAD 56,000 and 80,000 on total current consumption, which includes items such as shelter, food, and transportation, among others. Annual income taxes range between CAD 11,800 and 23,400 (provincial tax rates vary from province to province). Insurance payments cost around CAD 4,600 up to 6,000. Most household gifted between CAD 2,000 and 3,000 in 2019.<br>
 
 ## Data Transformation
@@ -49,7 +49,7 @@ All provinces experienced general increase in cost of living between 2010 and 20
 <img width="694" alt="image" src="https://user-images.githubusercontent.com/64732803/206878306-c30a0244-c237-4811-bc06-dc3e7caa3eab.png">
 Households in Canada typical spend between CAD 56,000 and 80,000 on total current consumption, which includes items such as shelter, food, and transportation, among others. Annual income taxes range between CAD 11,800 and 23,400 (provincial tax rates vary from province to province). Insurance payments cost around CAD 4,600 up to 6,000. Most household gifted between CAD 2,000 and 3,000 in 2019.
 
-### What is the types of spending under total current consumption?
+### What are the types of spending under total current consumption?
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/64732803/206878313-ef127dbd-0754-4b9c-a315-2cc840dcadca.png">
 A breakdown of major type of spending under total current consumption is summarized below:
 * Transportation (18%-22%)
